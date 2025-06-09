@@ -143,11 +143,8 @@ npm run lint       # Lint project
 
 ## 👨‍💻 Author
 
-Developed by \[Your Name] – feel free to fork and customize!
+Developed by Khurram Rashid
 
 ```
 
----
-
-Let me know if you'd like me to include deployment steps (Render + Vercel) or Docker support.
 ```
